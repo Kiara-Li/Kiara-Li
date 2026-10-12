@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Bird Map — Interface Preview</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #101214; color: #fff; font-family: Arial, sans-serif; }
+    .note { padding: 8px 16px; border-bottom: 1px solid #52565a; background: #fff; color: #111; font: 11px monospace; letter-spacing: .05em; text-transform: uppercase; }
+    .app { display: grid; grid-template-columns: 270px 1fr; min-height: calc(100vh - 31px); }
+    .controls { padding: 24px; border-right: 1px solid #52565a; }
+    h1 { margin: 0 0 8px; font-size: 25px; }
+    .intro { margin: 0 0 28px; color: #adb3b8; font-size: 13px; line-height: 1.45; }
+    label { display: block; margin-top: 18px; color: #c6cbd0; font: 11px monospace; letter-spacing: .04em; text-transform: uppercase; }
+    .times { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+    input, select { width: 100%; margin-top: 7px; border: 1px solid #6c7277; padding: 9px; background: #191c1f; color: #fff; }
+    button { width: 100%; margin-top: 24px; border: 1px solid #fff; padding: 11px; background: #fff; color: #111; font-weight: 700; }
+    .map { position: relative; overflow: hidden; min-height: 520px; background: #15191c; }
+    .grid { position: absolute; inset: -40px; opacity: .32; background-image: linear-gradient(#72777c 1px, transparent 1px), linear-gradient(90deg, #72777c 1px, transparent 1px); background-size: 44px 44px; transform: rotate(-8deg) scale(1.15); }
+    .water { position: absolute; top: -10%; right: -3%; width: 45%; height: 120%; border-left: 2px solid #586068; border-radius: 50% 0 0 50%; background: #0d1012; transform: rotate(7deg); }
+    .marker { position: absolute; width: 11px; height: 11px; border: 2px solid #111; border-radius: 50%; background: #fff; box-shadow: 0 0 0 2px #fff; }
+    .m1 { left: 24%; top: 35%; } .m2 { left: 43%; top: 50%; } .m3 { left: 58%; top: 28%; } .m4 { left: 35%; top: 70%; } .m5 { left: 68%; top: 63%; }
+    .key { position: absolute; right: 18px; bottom: 18px; padding: 9px 12px; border: 1px solid #697077; background: rgba(16,18,20,.9); color: #c7ccd0; font: 11px monospace; }
+    .map-title { position: absolute; top: 18px; left: 20px; font: 12px monospace; letter-spacing: .05em; text-transform: uppercase; }
+    @media (max-width: 680px) {
+      .app { grid-template-columns: 1fr; }
+      .controls { border-right: 0; border-bottom: 1px solid #52565a; }
+      .map { min-height: 380px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="note">Source-based interface preview · live eBird data requires the Flask server</div>
+  <main class="app">
+    <section class="controls">
+      <h1>What Are the Birds Doing While You Sleep?</h1>
+      <p class="intro">Choose a recent night to compare your sleeping hours with bird observations across New York.</p>
+      <div class="times">
+        <label>Bedtime<input type="time" value="23:00"></label>
+        <label>Wake-up<input type="time" value="07:00"></label>
+      </div>
+      <label>Night to view<select><option>Yesterday</option><option>Day before yesterday</option><option>Three days ago</option></select></label>
+      <button type="button">View the birds</button>
+    </section>
+    <section class="map" aria-label="Stylized preview of the New York observation map">
+      <div class="grid"></div><div class="water"></div>
+      <div class="map-title">Recent observations · New York</div>
+      <i class="marker m1"></i><i class="marker m2"></i><i class="marker m3"></i><i class="marker m4"></i><i class="marker m5"></i>
+      <div class="key">● observation point<br>select a point for image, count, time, and sound</div>
+    </section>
+  </main>
+</body>
+</html>

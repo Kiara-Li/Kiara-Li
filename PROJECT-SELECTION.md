@@ -7,10 +7,12 @@ This profile is ordered for opportunities centered on AI, information credibilit
 1. **The Feed as Archive** is the strongest direct response to the question of information credibility. It examines the systems that decide what information becomes visible, legitimate, or absent.
 2. **Sensing Suspicion** demonstrates an end-to-end AI experiment—dataset collection, model training, classification, and an interface that reveals model scores. Its value here is not that the prediction is automatically true, but that the model's judgment is made inspectable.
 3. **Clipboard Forest** makes personal information-gathering and source provenance visible. It connects everyday behavior to a legible data system.
-4. **TRACE / Living Archive** demonstrates participatory research, bilingual interface design, structured data collection, and exportable evidence.
-5. **Pigeon Viewpoint Experiment** shows experimental prototyping across computer vision, embodiment, interaction, and observational research.
-6. **Packed Like Sardines** adds a generative-AI collaboration in which model output becomes part of a participatory social archive.
-7. **Exam Sprint** demonstrates a testable workflow, adaptive system behavior, and event logging rather than a purely visual mockup.
+4. **Living Archive** makes a long-form thesis process navigable, linking research, field observations, experiments, and finished works.
+5. **TRACE** demonstrates participatory research, bilingual interface design, structured data collection, and exportable evidence.
+6. **Pigeon Viewpoint Experiment** shows experimental prototyping across computer vision, embodiment, interaction, and observational research.
+7. **Packed Like Sardines** adds a generative-AI collaboration in which model output becomes part of a participatory social archive.
+8. **Exam Sprint** demonstrates a testable workflow, adaptive system behavior, and event logging rather than a purely visual mockup.
+9. **Modern Art History Study** is a high-completion learning interface with four chapters, sixty terms, and working flashcard, quiz, test, and navigation flows.
 ## Editorial choices
 
 - The profile describes only features visible in the current repositories or documented project files.

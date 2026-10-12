@@ -26,23 +26,33 @@ A text-classification experiment trained on Reddit narratives to recognize lingu
 
 ---
 
-### [Clipboard Forest](https://github.com/Kiara-Li/clipboard-tracker)
+### [Clipboard Forest](https://kiara-li.github.io/clipboard-tracker/forest.html) ↗
 
 `browser extension` `information provenance` `personal data visualization`
 
 A Chrome extension that turns copied fragments into a growing geometric forest. Source type determines each tree's form, text length determines its height, and every fragment keeps a path back to where it came from—making everyday information-gathering visible over time.
 
-**[Repository](https://github.com/Kiara-Li/clipboard-tracker)**
+**[Interface](https://kiara-li.github.io/clipboard-tracker/forest.html)** · **[Repository](https://github.com/Kiara-Li/clipboard-tracker)**
 
 ---
 
-### [TRACE / Living Archive](https://kiara-li.github.io/thesis-living-archive/trace/) ↗
+### [Living Archive](https://kiara-li.github.io/thesis-living-archive/) ↗
+
+`thesis research` `process archive` `urban multispecies study`
+
+An evolving thesis archive that maps research, experiments, field observations, and works about pigeons, urban infrastructure, and multispecies life. Its process map keeps connections between research steps visible rather than presenting only finished outcomes.
+
+**[Live archive](https://kiara-li.github.io/thesis-living-archive/)** · **[Repository](https://github.com/Kiara-Li/thesis-living-archive)**
+
+---
+
+### [TRACE](https://kiara-li.github.io/thesis-living-archive/trace/) ↗
 
 `participatory archive` `bilingual interface` `research method`
 
 A bilingual participatory tool for drawing the time people have spent in different cities and recording the animals and plants they remember there. Each response can be exported as an image or PDF while preserving structured trace data for later research and visualization.
 
-**[Try TRACE](https://kiara-li.github.io/thesis-living-archive/trace/)** · **[Living Archive](https://kiara-li.github.io/thesis-living-archive/)** · **[Repository](https://github.com/Kiara-Li/thesis-living-archive)**
+**[Try TRACE](https://kiara-li.github.io/thesis-living-archive/trace/)** · **[Repository](https://github.com/Kiara-Li/thesis-living-archive)**
 
 ---
 
@@ -74,11 +84,21 @@ A time-aware study layer for a Modern Art History learning interface. It turns a
 
 **[Live prototype](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/)** · **[Repository](https://github.com/Kiara-Li/Kiara-Li-exam-sprint-overlay)**
 
+---
+
+### [Modern Art History Study](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/?mode=original) ↗
+
+`learning interface` `flashcards` `quiz flow` `front-end development`
+
+A Quizlet-style study interface built around four Modern Art History chapters and sixty terms. It includes chapter selection, flashcards, learn questions, test setup, answer feedback, and working navigation across the complete study flow.
+
+**[Live interface](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/?mode=original)** · **[Repository](https://github.com/Kiara-Li/Kiara-Li-exam-sprint-overlay)**
+
 ## More projects
 
 - **[Kēdiǎn / Ship Feels](https://kiara-li.github.io/ship-feels/)** — a bilingual personal archive for saving scenes, lines, images, tags, and story chronology across film, animation, fiction, and comics. [Code](https://github.com/Kiara-Li/ship-feels)
 - **[Grog](https://kiara-li.github.io/Grog/)** — a single-page typeface specimen shaped by ceramic glazes, kiln labels, and an interactive firing simulation. [Code](https://github.com/Kiara-Li/Grog)
-- **[Bird Map](https://kiara-li.github.io/flask_Midterm_ebird/)** — a Flask project combining recent eBird observations with species images and field recordings. [Code](https://github.com/Kiara-Li/flask_Midterm_ebird)
+- **[Bird Map interface preview](https://kiara-li.github.io/Kiara-Li/previews/bird-map.html)** — a Flask project combining recent eBird observations with species images and field recordings. The public repository does not currently include a hosted Flask deployment. [Code](https://github.com/Kiara-Li/flask_Midterm_ebird)
 - **[Fluffy New Yorker](https://kiara-li.github.io/fluffy-new-yorker/)** — an imaginative web collection in which New York's animals become hosts for short-term stays. [Code](https://github.com/Kiara-Li/fluffy-new-yorker)
 - **[Where Good Ideas Come From](https://kiara-li.github.io/Where-good-ideas-come-from/)** — an interactive reading response that turns concepts from Steven Johnson's talk into a sequence of playful word discoveries. [Code](https://github.com/Kiara-Li/Where-good-ideas-come-from)
 - **[p5.js Visual Effects Showcase](https://kiara-li.github.io/p5js-repo/)** — a collection of interactive visual studies made with p5.js. [Code](https://github.com/Kiara-Li/p5js-repo)
