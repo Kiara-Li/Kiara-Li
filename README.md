@@ -98,11 +98,21 @@ An interaction concept for recording a plush toy's life rather than the owner's 
 - **[p5.js Visual Effects Showcase](https://kiara-li.github.io/p5js-repo/)** — a collection of interactive visual studies made with p5.js. [Code](https://github.com/Kiara-Li/p5js-repo)
 
 <details>
-<summary><strong>Coursework and early web studies</strong></summary>
+<summary><strong>Additional repository index</strong> — earlier versions, coursework, and collaborations</summary>
 
 <br>
 
-[Interaction Lab](https://github.com/Kiara-Li/interaction-lab) · [Harmonic Collection](https://github.com/Kiara-Li/harmonic-collection-setup) · [Core Interaction II Unit 2](https://github.com/Kiara-Li/coreinteraction2_s25_unit2) · [Demon Site](https://github.com/Kiara-Li/demon-site) · [Demo 2](https://github.com/Kiara-Li/demo2) · [Example Project](https://github.com/Kiara-Li/example-project)
+**Earlier and parallel project repositories**
+
+[Creepy Detector](https://github.com/Kiara-Li/creepy_detector) · [Fandom](https://github.com/Kiara-Li/Fandom) · [Wild New Yorker](https://github.com/Kiara-Li/Wild-New-Yorker)
+
+**Coursework and code studies**
+
+[Interaction Lab](https://github.com/Kiara-Li/interaction-lab) · [Harmonic Collection Setup](https://github.com/Kiara-Li/harmonic-collection-setup) · [Core Interaction II Unit 2](https://github.com/Kiara-Li/coreinteraction2_s25_unit2) · [Demon Site](https://github.com/Kiara-Li/demon-site) · [Demo 2](https://github.com/Kiara-Li/demo2) · [Example Project](https://github.com/Kiara-Li/example-project) · [Desktop Tutorial](https://github.com/Kiara-Li/desktop-tutorial)
+
+**Class and collaborative repositories hosted by other accounts**
+
+[Loops — PSAM 3210](https://github.com/psam3210/a2-loops-Kiara-Li) · [Hello World — PSAM 3210](https://github.com/psam3210/a1-hello-world-Kiara-Li) · [Core 2 Interaction Project 1](https://github.com/leylaougral/core-2-interaction-project-1)
 
 </details>
 
@@ -113,4 +123,3 @@ An interaction concept for recording a plush toy's life rather than the owner's 
 ---
 
 I am interested in collaborations around AI, information credibility, archives, public-interest technology, and experimental interaction design.
-

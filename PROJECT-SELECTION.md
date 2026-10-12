@@ -18,5 +18,5 @@ This profile is ordered for opportunities centered on AI, information credibilit
 - The profile describes only features visible in the current repositories or documented project files.
 - It does not present model outputs as objective truth or claim that a prototype has been deployed beyond its verified public demo.
 - Older exercises and boilerplate repositories remain accessible, but they are grouped under a collapsed section so they do not dilute the central research direction.
+- The additional repository index follows the fuller GitHub Desktop list supplied on October 12, 2026. It separates repositories owned by Kiara from class or collaborative repositories hosted by other accounts.
 - The text is written in English for an international interdisciplinary audience, while bilingual capability remains visible through TRACE and Kēdiǎn.
-
