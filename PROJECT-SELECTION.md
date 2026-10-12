@@ -11,8 +11,6 @@ This profile is ordered for opportunities centered on AI, information credibilit
 5. **Pigeon Viewpoint Experiment** shows experimental prototyping across computer vision, embodiment, interaction, and observational research.
 6. **Packed Like Sardines** adds a generative-AI collaboration in which model output becomes part of a participatory social archive.
 7. **Exam Sprint** demonstrates a testable workflow, adaptive system behavior, and event logging rather than a purely visual mockup.
-8. **Plush Life** contributes a clear provenance principle: generated language should remain connected to the records it came from.
-
 ## Editorial choices
 
 - The profile describes only features visible in the current repositories or documented project files.

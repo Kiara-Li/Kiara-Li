@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Kiara Li — communication design, AI, archives, and interaction" width="100%">
-</p>
-
 I am a communication designer and creative technologist at Parsons School of Design. I build research-driven interfaces, archives, and experiments that ask how technology shapes what people notice, remember, and trust.
 
 My current work moves between **AI and information systems**, **participatory archives**, **embodied interaction**, and **urban multispecies research**. I am especially interested in making invisible systems—classification, recommendation, translation, and data collection—available for people to inspect and question.
@@ -77,16 +73,6 @@ An interactive archive for urban commuters to compress a stressful experience in
 A time-aware study layer for a Modern Art History learning interface. It turns an exam deadline into a study plan, supports swipe-to-save and review queues, reallocates time as chapters are completed, and records session events for prototype testing.
 
 **[Live prototype](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/)** · **[Repository](https://github.com/Kiara-Li/Kiara-Li-exam-sprint-overlay)**
-
----
-
-### [Plush Life](https://github.com/Kiara-Li/plush-life)
-
-`AI interaction concept` `memory` `provenance`
-
-An interaction concept for recording a plush toy's life rather than the owner's diary. The prototype explores a shelf-based archive, tactile page-turning, and an important constraint: anything the toy appears to say must remain traceable to specific records instead of being presented as invented memory.
-
-**[Repository](https://github.com/Kiara-Li/plush-life)** · *prototype in development*
 
 ## More projects
 
