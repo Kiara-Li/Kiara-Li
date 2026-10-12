@@ -36,6 +36,16 @@ A Chrome extension that turns copied fragments into a growing geometric forest. 
 
 ---
 
+### [Grog](https://kiara-li.github.io/Grog/) ↗
+
+`typeface design` `ceramics` `interactive specimen`
+
+A single-page typeface specimen shaped by ceramic glazes, kiln labels, and an interactive firing simulation.
+
+**[Live specimen](https://kiara-li.github.io/Grog/)** · **[Repository](https://github.com/Kiara-Li/Grog)**
+
+---
+
 ### [Living Archive](https://kiara-li.github.io/thesis-living-archive/) ↗
 
 `thesis research` `process archive` `urban multispecies study`
@@ -78,30 +88,18 @@ An interactive archive for urban commuters to compress a stressful experience in
 
 ### [Exam Sprint](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/) ↗
 
-`adaptive learning` `interaction design` `prototyping`
+`adaptive learning` `flashcards` `quiz flow` `interaction design`
 
-A time-aware study layer for a Modern Art History learning interface. It turns an exam deadline into a study plan, supports swipe-to-save and review queues, reallocates time as chapters are completed, and records session events for prototype testing.
+A Quizlet-style Modern Art History study interface and its time-aware exam layer, built as one project. Four chapters and sixty terms support flashcards, quizzes, tests, review queues, deadline-based study plans, adaptive time allocation, and prototype event logging.
 
-**[Live prototype](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/)** · **[Repository](https://github.com/Kiara-Li/Kiara-Li-exam-sprint-overlay)**
-
----
-
-### [Modern Art History Study](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/?mode=original) ↗
-
-`learning interface` `flashcards` `quiz flow` `front-end development`
-
-A Quizlet-style study interface built around four Modern Art History chapters and sixty terms. It includes chapter selection, flashcards, learn questions, test setup, answer feedback, and working navigation across the complete study flow.
-
-**[Live interface](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/?mode=original)** · **[Repository](https://github.com/Kiara-Li/Kiara-Li-exam-sprint-overlay)**
+**[Live prototype](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/)** · **[Original study mode](https://kiara-li.github.io/Kiara-Li-exam-sprint-overlay/?mode=original)** · **[Repository](https://github.com/Kiara-Li/Kiara-Li-exam-sprint-overlay)**
 
 ## More projects
 
 - **[Kēdiǎn / Ship Feels](https://kiara-li.github.io/ship-feels/)** — a bilingual personal archive for saving scenes, lines, images, tags, and story chronology across film, animation, fiction, and comics. [Code](https://github.com/Kiara-Li/ship-feels)
-- **[Grog](https://kiara-li.github.io/Grog/)** — a single-page typeface specimen shaped by ceramic glazes, kiln labels, and an interactive firing simulation. [Code](https://github.com/Kiara-Li/Grog)
 - **[Bird Map interface preview](https://kiara-li.github.io/Kiara-Li/previews/bird-map.html)** — a Flask project combining recent eBird observations with species images and field recordings. The public repository does not currently include a hosted Flask deployment. [Code](https://github.com/Kiara-Li/flask_Midterm_ebird)
 - **[Fluffy New Yorker](https://kiara-li.github.io/fluffy-new-yorker/)** — an imaginative web collection in which New York's animals become hosts for short-term stays. [Code](https://github.com/Kiara-Li/fluffy-new-yorker)
 - **[Where Good Ideas Come From](https://kiara-li.github.io/Where-good-ideas-come-from/)** — an interactive reading response that turns concepts from Steven Johnson's talk into a sequence of playful word discoveries. [Code](https://github.com/Kiara-Li/Where-good-ideas-come-from)
-- **[p5.js Visual Effects Showcase](https://kiara-li.github.io/p5js-repo/)** — a collection of interactive visual studies made with p5.js. [Code](https://github.com/Kiara-Li/p5js-repo)
 
 <details>
 <summary><strong>Additional repository index</strong> — earlier versions, coursework, and collaborations</summary>
