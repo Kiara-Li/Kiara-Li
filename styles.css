@@ -151,8 +151,21 @@ h2 { margin: 0; font-size: clamp(26px, 3vw, 38px); font-weight: 500; letter-spac
   text-decoration: none;
   text-transform: uppercase;
 }
-.browser-bar a:hover,
 .reload:hover { text-decoration: underline; }
+
+.browser-bar a {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  margin-right: -9px;
+  padding: 0 16px;
+  background: var(--black);
+  color: var(--white);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .06em;
+}
+.browser-bar a:hover { background: #ff4b33; }
 
 .live-dot,
 .static-dot { width: 7px; height: 7px; border: 1px solid var(--black); border-radius: 50%; background: var(--black); }
@@ -184,6 +197,9 @@ h2 { margin: 0; font-size: clamp(26px, 3vw, 38px); font-weight: 500; letter-spac
 
 .project-text { padding-top: 16px; }
 .project-text h3 { margin: 0 0 10px; font-size: 24px; font-weight: 500; letter-spacing: -.025em; line-height: 1; }
+.project-text h3 a { text-decoration: none; }
+.project-text h3 a::after { content: " ↗"; font-size: .7em; }
+.project-text h3 a:hover { text-decoration: underline; }
 .project-text p { margin: 0 0 11px; font-size: 13px; }
 .project-text .tags { margin: 0 0 12px; font-size: 9px; }
 .project-text > a,
