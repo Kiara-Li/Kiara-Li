@@ -6,7 +6,7 @@ I am a communication designer and creative technologist at Parsons School of Des
 
 My current work moves between **AI and information systems**, **participatory archives**, **embodied interaction**, and **urban multispecies research**. I am especially interested in making invisible systems—classification, recommendation, translation, and data collection—available for people to inspect and question.
 
-[Selected work](#selected-work) · [More projects](#more-projects) · [GitHub repositories](https://github.com/Kiara-Li?tab=repositories)
+[Interactive portfolio](https://kiara-li.github.io/Kiara-Li/) ↗ · [Selected work](#selected-work) · [More projects](#more-projects) · [GitHub repositories](https://github.com/Kiara-Li?tab=repositories)
 
 ## Selected work
 
