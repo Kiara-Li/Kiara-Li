@@ -6,6 +6,16 @@ My current work moves between **AI and information systems**, **participatory ar
 
 ## Selected work
 
+### [Look Up](https://kiara-li.github.io/prototype1/look-up/) ↗
+
+`pigeon viewpoint` `urban memory` `p5.js` `camera gesture`
+
+What happens when ordinary city furniture—the things that hold our memories—is awakened again through a pigeon's eyes? This p5.js project invites viewers to actively look up, make the framing gesture of taking a photo, and leave feathers and memories as their own traces on the site.
+
+**[Live project](https://kiara-li.github.io/prototype1/look-up/)** · **[Project statement](https://kiara-li.github.io/thesis-living-archive/works/prototype-1/)** · **[Repository](https://github.com/Kiara-Li/prototype1)**
+
+---
+
 ### [The Feed as Archive](https://kiara-li.github.io/THE_FEED_AS_ARCHIVE/) ↗
 
 `information environment` `algorithmic visibility` `research archive`
@@ -63,16 +73,6 @@ An evolving thesis archive that maps research, experiments, field observations, 
 A bilingual participatory tool for drawing the time people have spent in different cities and recording the animals and plants they remember there. Each response can be exported as an image or PDF while preserving structured trace data for later research and visualization.
 
 **[Try TRACE](https://kiara-li.github.io/thesis-living-archive/trace/)** · **[Repository](https://github.com/Kiara-Li/thesis-living-archive)**
-
----
-
-### [Pigeon Viewpoint Experiment](https://kiara-li.github.io/prototype1/) ↗
-
-`computer vision` `embodied interaction` `p5.js` `MediaPipe`
-
-An embodied web experiment that translates head angle into vertical navigation through a book of pigeon observations. Related modes use hand gestures to frame and magnify photographs and let participants attach recorded sounds to individual birds.
-
-**[Live prototype](https://kiara-li.github.io/prototype1/)** · **[Repository](https://github.com/Kiara-Li/prototype1)**
 
 ---
 
